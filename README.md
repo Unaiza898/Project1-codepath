@@ -29,6 +29,10 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/94GRoEK5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Deployed on Vercel 
+
+project1-codepath.vercel.app
+
 
 
 ## Notes
