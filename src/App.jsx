@@ -21,6 +21,21 @@ function App() {
 <Cards name = "Minneapolis"img = {europe}/>
 </div>
 
+<div class="flex-container">
+<Cards name = "Swiss Alps" img = {leka}/>
+<Cards name = "bora bora" img = {bora}/>
+<Cards name = "Minneapolis"img = {europe}/>
+</div>
+<div class="flex-container">
+<Cards name = "Swiss Alps" img = {leka}/>
+<Cards name = "bora bora" img = {bora}/>
+<Cards name = "Minneapolis"img = {europe}/>
+</div>
+<div class="flex-container">
+<Cards name = "Swiss Alps" img = {leka}/>
+<Cards name = "bora bora" img = {bora}/>
+<Cards name = "Minneapolis"img = {europe}/>
+</div>
 <div>
 
 </div>
