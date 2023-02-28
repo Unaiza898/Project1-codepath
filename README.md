@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-![94GRoEK5](https://user-images.githubusercontent.com/65740643/221919454-e139e4bd-eade-4961-9ec1-35e797b661d6.gif)
+![codepathproject1](https://user-images.githubusercontent.com/65740643/221928324-c5ea864e-d0ed-4391-a3a6-d9571ce2cf94.gif)
 
 
 ## Deployed on Vercel 
