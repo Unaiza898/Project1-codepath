@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [X] The site is responsive for both desktop and mobile formats
+- [X] Buttons or links to a related resources are on each card component
+- [] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
@@ -26,8 +26,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![codepathproject1](https://user-images.githubusercontent.com/65740643/221928324-c5ea864e-d0ed-4391-a3a6-d9571ce2cf94.gif)
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/94GRoEK5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Deployed on Vercel 
+
+[Vercel](https://project1-codepath.vercel.app/)
+
 
 
 
