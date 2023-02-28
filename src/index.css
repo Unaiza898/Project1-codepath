@@ -1,0 +1,141 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: inherit;
+  background-color:#FF2D2E;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-top: 3px;
+  
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+.first {
+  margin-right: 10px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+
+.bar{
+width: auto;
+background-color: #FF2D2E;
+color:#f9f9f9;
+
+font-weight: 200;
+height: 35px;
+
+}
+.img-nav{
+height:150px;
+width:100%;
+
+
+}
+.img-logo{
+  /* margin-bottom:10px; */
+  height:35px;
+  width:20%;
+  display: inline;
+  
+  }
+.card{
+height: 140px;
+width: 120px;
+border-radius: 10px;
+box-shadow: #1a1a1a;
+background-color: #f9f9f9;
+margin: 10px 15px;
+margin-bottom: 10px;
+padding : 0%!important;
+
+}
+.card .img1 {
+
+width: 120px;
+border-radius: 5px;
+height: 100px;
+
+}
+.name{
+  font-size: 12px;
+}
+
+.bar div{
+  display: inline;
+}
+
+.bar h3{
+  display: inline;
+  text-align: center;
+}
+/* .btn{
+  /* text-align: right;
+  margin-right: 200px; */
+.btn{
+  margin-left: 100px;
+}
+
+
+
+
+.quote{
+  font-size: 12px;
+}
