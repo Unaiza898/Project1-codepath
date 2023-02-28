@@ -39,7 +39,7 @@ h1 {
 button {
   border-radius: 8px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em;
+  padding: 9px 9px;
   font-size: 12px;
   font-weight: 500;
   font-family: inherit;
@@ -97,7 +97,7 @@ width:100%;
   
   }
 .card{
-height: 140px;
+height: 180px;
 width: 120px;
 border-radius: 10px;
 box-shadow: #1a1a1a;
