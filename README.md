@@ -26,12 +26,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![94GRoEK5](https://user-images.githubusercontent.com/65740643/221919454-e139e4bd-eade-4961-9ec1-35e797b661d6.gif)
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/94GRoEK5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Deployed on Vercel 
 
-project1-codepath.vercel.app
+[Vercel](https://project1-codepath.vercel.app/)
+
 
 
 
